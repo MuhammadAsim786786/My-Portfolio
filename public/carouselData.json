@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "src": "/assets/banner/1st.png",
+      "alt": "Project Image 1"
+    },
+    {
+      "src": "/assets/banner/2nd.png",
+      "alt": "Project Image 2"
+    },
+    {
+      "src": "/assets/banner/3rd.png",
+      "alt": "Project Image 3"
+    }
+  ]
+}

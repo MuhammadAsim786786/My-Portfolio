@@ -1,0 +1,32 @@
+@media (max-width: 60em) {
+  .carousel {
+    flex-direction: column;
+    max-width: 600px;
+    max-height: 600px;
+    gap: 96px;
+    padding: 32px 48px 32px 48px;
+  }
+  .carousel-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+  }
+}
+@media (max-width: 35em) {
+  .carousel {
+    flex-direction: column;
+    max-width: 400px;
+    max-height: 600px;
+    gap: 84px;
+    font-size: 12px;
+  }
+  .carousel-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+    max-height: 130px;
+    max-width: 220px;
+  }
+}

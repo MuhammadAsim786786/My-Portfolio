@@ -23,7 +23,9 @@ export default function Experience() {
 
   const backendSkills: Skill[] = [
     { name: "PostgreSQL", level: "Experienced" },
-    { name: "Supabase/Firebase", level: "Experienced" },
+    { name: "Supabase", level: "Experienced" },
+    { name: "Firebase", level: "Experienced" },
+    { name: "Mongo DB", level: "Experienced" },
     { name: "Node JS", level: "Intermediate" },
     { name: "Express JS", level: "Intermediate" },
   ];

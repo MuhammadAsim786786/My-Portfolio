@@ -13,7 +13,7 @@
     margin-left: 0px;
   }
 }
-@media (max-width: 35em) {
+@media (max-width: 37em) {
   .carousel {
     flex-direction: column;
     max-width: 400px;

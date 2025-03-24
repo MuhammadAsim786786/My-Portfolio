@@ -115,7 +115,7 @@ const ProjectsShowcase: React.FC = () => {
               href={currentTestimonial.liveLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center gap-3 font-medium text-[#e9effd] bg-[#1e4fbc] h-7 w-40 rounded-sm hover:bg-[#5182ef]"
+              className="flex items-center justify-center gap-3 font-medium text-[#e9effd] bg-[#1b45a5] h-7 w-40 rounded-sm hover:bg-[#1e4fbc]"
             >
               <GrView color="#e9effd" />
               View Live
@@ -124,7 +124,7 @@ const ProjectsShowcase: React.FC = () => {
               href={currentTestimonial.githubLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center justify-center gap-3 font-medium text-[#e9effd] bg-[#1e4fbc] h-7 w-40 rounded-sm hover:bg-[#5182ef]"
+              className="flex items-center justify-center gap-3 font-medium text-[#e9effd] bg-[#1b45a5] h-7 w-40 rounded-sm hover:bg-[#1e4fbc]"
             >
               <FaGithub color="#e9effd" />
               View on GitHub

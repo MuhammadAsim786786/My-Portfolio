@@ -16,8 +16,8 @@
 @media (max-width: 37em) {
   .carousel {
     flex-direction: column;
-    max-width: 3000px;
-    max-height: 1000px;
+    max-width: 1000px;
+    max-height: 500px;
     gap: 64px;
     font-size: 12px;
     margin-left: 16px;
@@ -45,5 +45,12 @@
   .testimonial-job {
     font-size: 8px;
     color: #e9effd;
+  }
+}
+@media (max-width: 30em) {
+  .carousel {
+    max-width: 380px;
+    max-height: 500px;
+    margin: 0 auto;
   }
 }

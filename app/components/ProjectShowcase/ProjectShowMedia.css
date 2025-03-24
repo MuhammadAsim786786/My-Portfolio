@@ -16,10 +16,11 @@
 @media (max-width: 37em) {
   .carousel {
     flex-direction: column;
-    max-width: 400px;
-    max-height: 600px;
+    max-width: 3000px;
+    max-height: 1000px;
     gap: 84px;
     font-size: 12px;
+    margin-left: 16px;
   }
   .carousel-image {
     display: flex;
@@ -28,5 +29,21 @@
     margin-left: 0px;
     max-height: 130px;
     max-width: 220px;
+  }
+  .testimonial-text {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 32px;
+    color: #e9effd;
+  }
+  .testimonial-author {
+    font-size: 8px;
+    margin-bottom: 4px;
+    color: #e9effd;
+  }
+  .testimonial-job {
+    font-size: 8px;
+    color: #e9effd;
   }
 }

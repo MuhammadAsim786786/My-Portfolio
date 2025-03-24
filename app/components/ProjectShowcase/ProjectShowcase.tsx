@@ -89,7 +89,7 @@ const ProjectsShowcase: React.FC = () => {
       <div className="carousel text-[#343a40] leading-3 lg:max-h-96 lg:min-h-96">
         <Image
           width={1000}
-          height={350}
+          height={550}
           src={testimonials[currentIndex].image}
           alt={testimonials[currentIndex].author}
           className="carousel-image "
